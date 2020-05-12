@@ -1,8 +1,9 @@
-name: ChatReverser
 version: ${project.version}
 main: me.kyrxstudios.chatreverser.ChatReverser
 api-version: 1.13
+
 commands:
   reverse:
+    usage: /reverse
+    description: Toggles on or off reverse
     aliases: [r]
-
