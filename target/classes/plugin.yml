@@ -1,0 +1,8 @@
+name: ChatReverser
+version: 1.0-SNAPSHOT
+main: me.kyrxstudios.chatreverser.ChatReverser
+api-version: 1.13
+commands:
+  reverse:
+    aliases: [r]
+
