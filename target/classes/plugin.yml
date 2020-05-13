@@ -1,3 +1,4 @@
+name: ChatReverser
 version: 1.1
 main: me.kyrxstudios.chatreverser.ChatReverser
 api-version: 1.13

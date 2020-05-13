@@ -1,5 +1,6 @@
 package me.kyrxstudios.chatreverser;
 import org.bukkit.ChatColor;
+import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import java.util.ArrayList;
 import java.util.UUID;

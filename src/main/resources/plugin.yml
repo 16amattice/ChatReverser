@@ -1,3 +1,4 @@
+name: ChatReverser
 version: ${project.version}
 main: me.kyrxstudios.chatreverser.ChatReverser
 api-version: 1.13
